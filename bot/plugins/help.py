@@ -20,7 +20,7 @@ Just send me the telegram file or the streaming URL.
 👉 If the bot dosen't respond to telegram files you forward, first check /start and --confirm bot is alive--. Then make sure the file is a **video file** which satisfies above mentioned conditions. 
 👉 If bot replies __😟 Sorry! I cannot open the file.__, the file might be --currupted-- or --is malformatted--.
 
-__If issues persists contact my father.__"""
+__If issues persists contact my father @SI_NN_ER_LS.__"""
 
 
 @ScreenShotBot.on_message(Filters.private & Filters.command("help"))
